@@ -1,4 +1,4 @@
-# ETL Pipeline: Análisis de Retail Jujuy-Salta
+# ETL Pipeline: Análisis de Retail 
 
 Este proyecto implementa un flujo de datos (ETL) completo utilizando **Python** para el procesamiento y **PostgreSQL** para el almacenamiento y análisis.
 
